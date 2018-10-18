@@ -1,0 +1,32 @@
+{
+  "name": "ejemplo-gulp",
+  "version": "1.0.0",
+  "description": "Gulp example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Ramírez Concepción",
+  "license": "ISC",
+  "dependencies": {
+    "lodash-es": "^4.17.11"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "ansi-colors": "^3.1.0",
+    "autoprefixer": "^9.2.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-less": "^4.0.1",
+    "gulp-newer": "^1.4.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-terser": "^1.1.5",
+    "gulp-uglify": "^3.0.1",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-mozjpeg": "^7.0.0"
+  }
+}
